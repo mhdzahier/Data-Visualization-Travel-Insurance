@@ -1,7 +1,7 @@
 # Data Visualization - Travel Insurance
 Visualizing data regarding 2017 Singapore Travel Insurance Agencies 
 
-### [Website](https://zahiernasrudin.com/2019/12/29/data-visualization-travel-insurance-2017/)
+### [Website: zahiernasrudin.com](https://zahiernasrudin.com/2019/12/29/data-visualization-travel-insurance-2017/)
 
 ###  Top 5 Singapore Travel Insurance Agencies
 
